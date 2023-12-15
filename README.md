@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thaniphd
+- 👋 Hi, I’m @THANIGAIVEL
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
